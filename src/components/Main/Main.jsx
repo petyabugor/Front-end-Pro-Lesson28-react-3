@@ -1,6 +1,6 @@
 import React from 'react'
 import  './Main.css'
-import Product from  '../common/Product.jsx'
+import {Product} from  '../common/index'
 
 const Main = () => {
   
